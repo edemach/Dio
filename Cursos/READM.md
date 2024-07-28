@@ -1,1 +1,1 @@
-## Convensão de escritura de escrita
+## Convensão de estrutura de escrita
