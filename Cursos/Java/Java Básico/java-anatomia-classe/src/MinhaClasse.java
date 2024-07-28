@@ -1,6 +1,8 @@
 public class MinhaClasse {
     public static void main(String[] args) {
-        System.out.printl("Ola mundo!!");
+       int ano_2000 = 2000;
+       final string BR = "Brasil";
+       
     }
     
 }
